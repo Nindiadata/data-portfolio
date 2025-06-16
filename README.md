@@ -19,7 +19,14 @@ I'm a data-driven professional specializing in **Data Visualization** and **Info
 
 ## Featured Projects
 
-### 🌍 Community Impact Dashboard
+### 1. 🌍 Ecommerce Sales Analysis
+
+**Tech Stack:** SQL, BigQuery, Looker Data Studio
+**Impact:** Identified $2M revenue opportunity through customer segmentation
+
+---
+
+### 2. 🌍 Community Impact Dashboard
 **Empowering NGOs with Real-Time Impact Visualization**
 
 **Business Challenge:** NGOs struggle to demonstrate program effectiveness to donors, investors, and board members in real-time, hindering funding acquisition and strategic decision-making.
@@ -34,7 +41,7 @@ I'm a data-driven professional specializing in **Data Visualization** and **Info
 
 ---
 
-### 💼 CSR Program ROI Analysis
+### 3. 💼 CSR Program ROI Analysis
 **Optimizing Corporate Social Responsibility Investments**
 
 **Business Challenge:** Corporations need data-driven justification for CSR budget allocation and transparent social return on investment reporting for regulatory compliance.
@@ -50,7 +57,7 @@ I'm a data-driven professional specializing in **Data Visualization** and **Info
 
 ---
 
-### 🎯 Global SDG Progress Tracker
+### 4. 🎯 Global SDG Progress Tracker
 **Advancing UN Sustainable Development Goals Through Data**
 
 **Business Challenge:** International organizations lack comprehensive tools to track SDG progress, align funding with global development goals, and support evidence-based policy making.
