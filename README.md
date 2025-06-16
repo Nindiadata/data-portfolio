@@ -27,9 +27,8 @@ I'm a **Information Designer & Data Visualization Specialist** passionate about 
 ## 🛠️ Technical Skills
 
 ### Data Analysis & Visualization
-- **SQL**: Data querying, joins, aggregations
-- **Python**: pandas, matplotlib, seaborn, plotly
-- **Visualization Tools**: Tableau, Power BI, Excel
+- **Gsheet**: data analysis
+- **Visualization Tools**: Gsheet
 - **Design Tools**: Figma, Adobe Illustrator, Canva Pro
 
 ### Specializations
@@ -164,7 +163,7 @@ I don't just create pretty charts—I measure how visualizations drive decision-
 ## 🏆 Professional Experience
 
 **UX Research-Visual Data-Project Insight Associate**  
-*ibupunyamimpi.org | 2021 - 2024*
+*ibupunyamimpi.org | 2022 - present*
 - Analyzed learning patterns for 10,000+ mothers in online courses
 - Created data visualizations for program impact reporting
 - Conducted user research to optimize learning experience
@@ -175,9 +174,9 @@ I don't just create pretty charts—I measure how visualizations drive decision-
 ## 🎓 Continuous Learning
 
 Currently developing skills in:
-- Advanced Python for data science
+- SQL and Phyton for data analysis
 - Machine learning applications in social impact
-- Advanced Tableau calculations
+- Tableau for impact calculation
 - Statistical analysis and A/B testing
 
 ---
