@@ -103,9 +103,9 @@ I'm actively seeking opportunities as a **Data Visualization & Information Desig
 
 **Ready to collaborate?** Let's discuss how data-driven insights can transform your business objectives.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nindiakraftwina/))
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:workwithnindia@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square&logo=github)](https://github.com/Nindiadata)
+* **LinkedIn**: [Nindia Kraftwina](https://linkedin.com/in/nindiakraftwina)
+* **Email**: [workwithnindia@gmail.com](mailto:workwithnindia@gmail.com)
+* **Portfolio**: [Nindiadata](https://github.com/Nindiadata)
 
 ---
 
