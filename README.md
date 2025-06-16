@@ -1,11 +1,11 @@
 # Nindia Kraftwina 
 **Data Portfolio → Data Visualization & Information Designer**
 
-📍 Depok, West Java | 🎯 Transforming Complex Data into Actionable Business Intelligence
+📍 Depok, West Java 
 
 ---
 
-> Transforming complex data into actionable insights for social impact
+> Transforming complex data into Visual & Actionable Insights
 
 ## 👋 About Me
 
