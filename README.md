@@ -22,7 +22,8 @@ I'm a data-driven professional specializing in **Data Visualization** and **Info
 ### 1. 🌍 Ecommerce Sales Analysis
 
 **Tech Stack:** SQL, BigQuery, Looker Data Studio
-**Impact:** Identified $2M revenue opportunity through customer segmentation
+
+**Business Impact:** Identified $2M revenue opportunity through customer segmentation
 
 ---
 
