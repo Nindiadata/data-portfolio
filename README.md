@@ -43,7 +43,6 @@ I'm a **Information Designer & Data Visualization Specialist** passionate about 
 ## 📊 Featured Projects
 
 ### 1. 🎓 Online Learning Platform Analytics Dashboard
-*Beginner Level | 2-3 weeks*
 
 **Problem**: Online learning platforms need insights into learner behavior and course effectiveness to optimize educational outcomes.
 
@@ -63,7 +62,6 @@ I'm a **Information Designer & Data Visualization Specialist** passionate about 
 ---
 
 ### 2. 📈 NGO Impact Storytelling Infographic
-*Beginner-Intermediate Level | 3-4 weeks*
 
 **Problem**: NGOs struggle to communicate their impact effectively to donors and stakeholders through compelling visual narratives.
 
@@ -83,7 +81,6 @@ I'm a **Information Designer & Data Visualization Specialist** passionate about 
 ---
 
 ### 3. 💼 Social Enterprise Performance Analysis
-*Intermediate Level | 4-5 weeks*
 
 **Problem**: Social enterprises need comprehensive tracking of both financial sustainability and social impact metrics.
 
@@ -103,7 +100,6 @@ I'm a **Information Designer & Data Visualization Specialist** passionate about 
 ---
 
 ### 4. 🛒 E-commerce Sales Analysis
-*Intermediate Level | 3-4 weeks*
 
 **Problem**: Social commerce platforms need deep insights into sales patterns and merchant performance to optimize marketplace success.
 
